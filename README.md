@@ -2,6 +2,6 @@
 
 Русскоязычная документация Laravel 11 `1671 страниц`
 
-*пока что в форматах pdf rtf docx*
+*в форматах pdf rtf docx txt html*
 
 > Взята с [сайта](https://laravel.su/)
